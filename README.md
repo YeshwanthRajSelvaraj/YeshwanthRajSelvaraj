@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-  <!-- Massive Static Name with cool font -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=YESHWANTH+RAJ+SELVARAJ" alt="Name" />
+  <!-- Massive Static Name with Deep Blue font -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1158C7&center=true&vCenter=true&width=800&height=60&lines=YESHWANTH+RAJ+SELVARAJ" alt="Name" />
   
-  <!-- Typing animation for skills (from PR 3) -->
+  <!-- Typing animation for skills -->
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=20&duration=4000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=800&height=40&lines=AI%2FML+Systems+Engineering;LLM-Driven+Automation;Cloud+Security+Architecture" alt="Typing SVG" />
   
   <p>
@@ -12,25 +12,24 @@
   </p>
 
   <p>
-    <!-- Adding a cache buster parameter &v=1 to bypass GitHub camo caching issues -->
     <a href="https://github.com/YeshwanthRajSelvaraj">
-      <img src="https://github-readme-stats.vercel.app/api?username=YeshwanthRajSelvaraj&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YeshwanthRajSelvaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/YeshwanthRajSelvaraj">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthRajSelvaraj&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthRajSelvaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </a>
   </p>
 </div>
 
 <br>
 
-## /// System Overview
+## ❖ Overview
 
-Computer Science Engineering researcher specializing in Artificial Intelligence and Cloud Security. Proven track record in shipping production-grade platforms utilizing **Reinforcement Learning**, **Generative AI**, **Graph Neural Networks**, and **Adversarial ML** combined with **AWS**, **Kubernetes (EKS)**, and **Terraform** for secure architecture.
+Computer Science Engineering student (Cyber Security) specializing in **AI/ML systems engineering**, **LLM-driven automation**, and **cloud security architecture**. Proven ability to design and ship production-grade platforms combining **Reinforcement Learning**, **Generative AI**, **Graph Neural Networks**, and **adversarial ML** with **AWS**, **Kubernetes (EKS)**, **Docker**, and **Terraform** for secure, scalable infrastructure. Strong foundation in offensive/defensive security (VAPT, threat modeling, DevSecOps, MITRE ATT&CK) paired with deep applied AI expertise. Author of a peer-reviewed ML publication (95.35% accuracy, 0.948 ROC-AUC), multi-hackathon winner, and active researcher in Quantum Machine Learning (QML) and Post-Quantum Cryptography (PQC).
 
 <br>
 
-## /// Core Initiatives
+## ❖ Core Initiatives
 
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -77,33 +76,15 @@ Computer Science Engineering researcher specializing in Artificial Intelligence 
 
 <br>
 
-## /// Technology Stack
+## ❖ Technical Skills
 
-<div align="center">
-  
-  <code>Languages & Frameworks</code><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-  <br><br>
-  
-  <code>Cloud & Infrastructure</code><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  
-  <br><br>
-
-  <code>Security Analytics</code><br>
-  <img src="https://img.shields.io/badge/DevSecOps-100000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Forensics-5C3EE8?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=shield&logoColor=white" />
-  
-</div>
+- **Programming Languages**: Python, Java, C++, Go, JavaScript, SQL, C
+- **AI/ML & Data Science**: GenAI, LLMs, Deep Learning, RL, NLP, Computer Vision, GNNs, Multi-Agent Systems, XGBoost, LightGBM, CNNs, RNNs, SHAP, GANs
+- **Frameworks & Libraries**: PyTorch, TensorFlow, PyTorch Geometric, FastAPI, Flask, LangChain, Ray Serve, Ray RLlib, vLLM, NumPy, Pandas, Scikit-learn
+- **Cloud, DevOps & MLOps**: AWS (EC2, Lambda, API Gateway, IAM, VPC, WAF, CloudTrail), Docker, Kubernetes (EKS), Terraform, CI/CD, Infrastructure as Code (IaC), Zero Trust Architecture
+- **Cybersecurity & Security Tools**: OWASP ZAP, Nuclei, Metasploit, Burp Suite, Wireshark, Nmap, Kali Linux, VAPT, DevSecOps, Threat Detection, Network Forensics, MITRE ATT&CK, eBPF
+- **Databases & Analytics**: MySQL, PostgreSQL, MongoDB, ELK Stack, ETL Pipelines, Tableau, Power BI, NetworkX
+- **Web & Developer Tools**: React.js, Node.js, Express.js, HTML5, CSS3, REST APIs, Linux, Git, GitHub, Bash, Playwright, Streamlit, Android Studio, VS Code, Figma
 
 <br>
 <br>
