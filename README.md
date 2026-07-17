@@ -25,7 +25,7 @@
 
 ## ❖ Overview
 
-Computer Science Engineering student (Cyber Security) specializing in **AI/ML systems engineering**, **LLM-driven automation**, and **cloud security architecture**. Proven ability to design and ship production-grade platforms combining **Reinforcement Learning**, **Generative AI**, **Graph Neural Networks**, and **adversarial ML** with **AWS**, **Kubernetes (EKS)**, **Docker**, and **Terraform** for secure, scalable infrastructure. Strong foundation in offensive/defensive security (VAPT, threat modeling, DevSecOps, MITRE ATT&CK) paired with deep applied AI expertise. Author of a peer-reviewed ML publication (95.35% accuracy, 0.948 ROC-AUC), multi-hackathon winner, and active researcher in Quantum Machine Learning (QML) and Post-Quantum Cryptography (PQC).
+Hi, I am **Yeshwanth Raj Selvaraj**, a Computer Science Engineering student (Cyber Security) specializing in **AI/ML systems engineering**, **LLM-driven automation**, and **cloud security architecture**. Proven ability to design and ship production-grade platforms combining **Reinforcement Learning**, **Generative AI**, **Graph Neural Networks**, and **adversarial ML** with **AWS**, **Kubernetes (EKS)**, **Docker**, and **Terraform** for secure, scalable infrastructure. Strong foundation in offensive/defensive security (VAPT, threat modeling, DevSecOps, MITRE ATT&CK) paired with deep applied AI expertise. Author of a peer-reviewed ML publication (95.35% accuracy, 0.948 ROC-AUC), multi-hackathon winner, and active researcher in Quantum Machine Learning (QML) and Post-Quantum Cryptography (PQC).
 
 <br>
 
@@ -85,6 +85,34 @@ Computer Science Engineering student (Cyber Security) specializing in **AI/ML sy
 - **Cybersecurity & Security Tools**: OWASP ZAP, Nuclei, Metasploit, Burp Suite, Wireshark, Nmap, Kali Linux, VAPT, DevSecOps, Threat Detection, Network Forensics, MITRE ATT&CK, eBPF
 - **Databases & Analytics**: MySQL, PostgreSQL, MongoDB, ELK Stack, ETL Pipelines, Tableau, Power BI, NetworkX
 - **Web & Developer Tools**: React.js, Node.js, Express.js, HTML5, CSS3, REST APIs, Linux, Git, GitHub, Bash, Playwright, Streamlit, Android Studio, VS Code, Figma
+
+<br>
+
+<div align="center">
+  
+  <code>Languages & Frameworks</code><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <br><br>
+  
+  <code>Cloud & Infrastructure</code><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  
+  <br><br>
+
+  <code>Security Analytics</code><br>
+  <img src="https://img.shields.io/badge/DevSecOps-100000?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Forensics-5C3EE8?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=shield&logoColor=white" />
+  
+</div>
 
 <br>
 <br>
