@@ -1,6 +1,10 @@
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&duration=4000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=800&height=70&lines=Yeshwanth+Raj+Selvaraj;AI%2FML+Systems+Engineering;LLM-Driven+Automation;Cloud+Security+Architecture" alt="Typing SVG" />
+  <!-- Massive Static Name with cool font -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=YESHWANTH+RAJ+SELVARAJ" alt="Name" />
+  
+  <!-- Typing animation for skills (from PR 3) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=20&duration=4000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=800&height=40&lines=AI%2FML+Systems+Engineering;LLM-Driven+Automation;Cloud+Security+Architecture" alt="Typing SVG" />
   
   <p>
     <code>Researching and engineering secure, scalable AI infrastructure.</code><br>
@@ -8,11 +12,12 @@
   </p>
 
   <p>
+    <!-- Adding a cache buster parameter &v=1 to bypass GitHub camo caching issues -->
     <a href="https://github.com/YeshwanthRajSelvaraj">
-      <img src="https://github-readme-stats.vercel.app/api?username=YeshwanthRajSelvaraj&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YeshwanthRajSelvaraj&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/YeshwanthRajSelvaraj">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthRajSelvaraj&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthRajSelvaraj&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
     </a>
   </p>
 </div>
